@@ -5,5 +5,6 @@ the player who succeeds in placing three of their marks in a horizontal, vertica
 
 click the below link to view the program
 
+<a href="https://teja0o8.github.io/tic-tac-toe/src/" target="_blank" class="logo">https://teja0o8.github.io/tic-tac-toe/src/</a>
 
-<a href="https://teja0o8.github.io/tic-tac-toe/src/" target="_blank" >https://teja0o8.github.io/tic-tac-toe/src/</a>
+
